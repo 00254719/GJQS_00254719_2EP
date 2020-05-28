@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\gerso\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\gerso\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_HUGO-SegundoParcial.-1770597357.00" t="ExcludeRecursive" />
+    <e p="C:\Users\gerso\RiderProjects\HUGO-SegundoParcial" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="HUGO-SegundoParcial.csproj" t="IncludeRecursive" />
+      <e p="HUGO-SegundoParcial.sln" t="IncludeFlat" />
+      <e p="Modelo" t="Include">
+        <e p="Address.cs" t="Include" />
+        <e p="AddressDAO.cs" t="Include" />
+        <e p="APPORDER.cs" t="Include" />
+        <e p="ApporderDAO.cs" t="Include" />
+        <e p="Business.cs" t="Include" />
+        <e p="BusinessDAO.cs" t="Include" />
+        <e p="Conexion.cs" t="Include" />
+        <e p="Product.cs" t="Include" />
+        <e p="ProductDAO.cs" t="Include" />
+        <e p="Usuarioclass.cs" t="Include" />
+        <e p="UsuarioDAO.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+      <e p="Vista" t="Include">
+        <e p="Administrador.cs" t="Include" />
+        <e p="Administrador.Designer.cs" t="Include" />
+        <e p="Administrador.resx" t="Include" />
+        <e p="Appuser.cs" t="Include" />
+        <e p="Appuser.Designer.cs" t="Include" />
+        <e p="Appuser.resx" t="Include" />
+        <e p="frmCambiarContra.cs" t="Include" />
+        <e p="frmCambiarContra.Designer.cs" t="Include" />
+        <e p="frmCambiarContra.resx" t="Include" />
+        <e p="frmInicioSesión.cs" t="Include" />
+        <e p="frmInicioSesión.Designer.cs" t="Include" />
+        <e p="frmInicioSesión.resx" t="Include" />
+        <e p="frmPrincipal.cs" t="Include" />
+        <e p="frmPrincipal.Designer.cs" t="Include" />
+        <e p="frmPrincipal.resx" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
